@@ -1,4 +1,4 @@
-package in.co.sdrc.sdrcdatacollector.parser;
+package in.co.lifepartner.parser;
 
 import java.util.HashMap;
 import java.util.Map;

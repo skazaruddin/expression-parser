@@ -1,4 +1,4 @@
-package in.co.sdrc.sdrcdatacollector.parser;
+package in.co.lifepartner.parser;
 
 public enum TokenChar {
 	OPERATOR, LEFT_PARENTHESIS, RIGHT_PARENTHESIS, FUNCTION, LITERAL, VARIABLE, RESULT, FUNCTION_ARGS_SEPARATOR,TRUE,FALSE
